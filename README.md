@@ -25,7 +25,8 @@ K-Means Clustering
 Decision Tree
 Random Forest Classifier
 Observations:
-image
+![result](https://user-images.githubusercontent.com/83866738/132370294-b2c43869-0a18-48d4-8c90-353826f406ef.png)
+
 
 Therefore, KNN has the highest accuracy with 97% and then SVM with 94% accuracy. We have just implemented some of the common Machine Learning. Since the dataset is small with very few features.
 
