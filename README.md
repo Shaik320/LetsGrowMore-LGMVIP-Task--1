@@ -28,6 +28,6 @@ Observations:
 ![result](https://user-images.githubusercontent.com/83866738/132370294-b2c43869-0a18-48d4-8c90-353826f406ef.png)
 
 
-Therefore, KNN has the highest accuracy with 97% and then SVM with 94% accuracy. We have just implemented some of the common Machine Learning. Since the dataset is small with very few features.
+Therefore,This dataset is best predicted using a random forest or a decision tree classifier. This is so because two species have many similar features and differ by some minute difference in a combination of features,which cannot be separated by any form of regression. Hence, it can be classified better by a non-linear classifier like a decision tree or an array of decision trees (known as random forest). We have just implemented some of the common Machine Learning. Since the dataset is small with very few features.
 
 
